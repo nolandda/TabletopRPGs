@@ -1,0 +1,111 @@
+\documentclass[letterpaper,12pt,landscape,twocolumn]{article}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{xcolor}
+\usepackage{placeins}
+\usepackage{tabularx}
+
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks,
+  linkcolor={blue!50!black},
+  citecolor={blue!50!black},
+  urlcolor={blue!50!black}
+}
+\usepackage{graphicx}
+\usepackage{ragged2e}
+\usepackage{array}
+\usepackage{chessfss}
+
+\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
+\newcolumntype{N}{@{}m{0pt}@{}}
+\newcolumntype{O}{>{\centering\arraybackslash}X}
+
+\newcommand{\tabitem}{~~\llap{\textbullet}~~}
+
+\usepackage{adjustbox}
+
+\newcommand{\knightB}[1][1.85ex]{%
+\adjustbox{Trim=2.3pt 2.35pt 2.5pt 0pt,width=#1,raise=-0.03ex,margin=0.14ex 0ex 0.14ex 0ex}{\BlackKnightOnWhite}%
+}%
+
+
+
+
+\title{\Huge \textbf{Springers} \\ \Large A Roleplaying Game For the Multiverse }
+% Author
+\author{ \textbf{by Dan Noland} \\ \textbf{For The 2015 RPG Geek 24-Hour RPG Contest}}
+\begin{document}
+\begin{table}
+%\RaggedRight
+%\frontmatter
+%\maketitle
+
+%\let\cleardoublepage\clearpage
+
+%\tableofcontents
+%\mainmatter
+%%%%%%%%%%%%%%%%
+% CHAPTER 0    %
+%%%%%%%%%%%%%%%%
+\Huge\knight ~ Springers \rotatebox[origin=c]{180}{\knightB}
+\normalsize ~ \\
+\FloatBarrier
+
+\begin{minipage}[t]{.25\textwidth}
+\begin{tabularx}{\textwidth}{|M{3cm}|O|N}
+\hline
+  \textbf{Quick Thinking} & ~ & \\[36pt] \hline
+  \textbf{Empathy} & ~ & \\[36pt] \hline
+  \textbf{Reasoning} & ~ & \\[36pt] \hline
+  \textbf{Cool} & ~ & \\[36pt] \hline
+\end{tabularx}
+\end{minipage}%
+%
+\begin{minipage}[t]{.1\textwidth}
+ ~ 
+\end{minipage}%
+%
+\begin{minipage}[t]{.6\textwidth}
+\begin{tabularx}{\textwidth}{|M{3cm}|O|N}
+\hline
+  \textbf{Name:} & & \\[20pt] \hline
+  \textbf{Positive Trait} (choose one) & Loyal, Compassionate, Funny,
+  Optimistic, Wise, Responsible & \\[20pt] \hline
+  \textbf{Negative Trait} (choose one) & Angry, Judgmental,
+  Cynical, Self Centered, Attention Seeking & \\[20pt] \hline
+  \textbf{Gender} & Female, Male, Agender, Gender Fluid,
+  Other-gendered & \\[20pt] \hline
+\end{tabularx}
+\end{minipage}%
+
+~ \\
+\FloatBarrier
+
+\begin{minipage}{.51\textwidth}
+\large{Physical Overlay} \\
+\normalsize
+% 5in = 360pt
+% 3in = 216pt 
+\framebox(360,216){~}
+\end{minipage}%
+%
+\begin{minipage}{.02\textwidth}
+ ~ 
+\end{minipage}%
+%
+\begin{minipage}{.45\textwidth}
+\normalsize
+\begin{tabularx}{\textwidth}{|M{2.2cm}|O|N}
+\hline
+  \textbf{Character} & \textbf{Bond} & \\[20pt] \hline
+  ~ & ~ & \\[20pt] \hline
+  ~ & ~ & \\[20pt] \hline
+  ~ & ~ & \\[20pt] \hline
+  ~ & ~ & \\[20pt] \hline
+%  ~ & ~ & \\[20pt] \hline
+\end{tabularx}
+\end{minipage}%
+
+
+\end{table}
+\end{document}

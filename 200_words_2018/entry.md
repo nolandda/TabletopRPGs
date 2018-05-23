@@ -17,34 +17,31 @@ You can start a new message chain with a #CQCall or search for an
 existing chain and make a #CQReply. Make long chains. The group with
 the longest chain is winning. 
 
-When you make a #CQCall video to you must:
-* Explain who you are and where you came from.
-* Explain where you have found yourself stuck without access to transit.
-* Describe the difficulties you are having in that place.
-* Make a request for some assistance dealing with a specific difficulty. 
+When you make a #CQCall video to you must address:
+* Who you are.
+* Where you came from.
+* Where are you stuck currently?
+* What difficulties are you having there?
+* Request assistance dealing with a difficulty. 
 
-When you make a #CQReply you must:
-* Identify yourself
-* Allude to difficulties in your own situation
-* Say what the last video made you think of or feel
-* Discuss the success or failure of attempts to help made in the
-video you are replying to. If there was actually success comment on how it has improved things for you.
-* Ask at least one question about the character portrayed in the video
-to which you are replying.  
-* Ask at least one question about the environmental situation
-portrayed in the last video.
+When you make a #CQReply you must address:
+* Your identity
+* Discuss difficulties in your own situation
+* What impression did the previous message make on you? 
+* Did the previous message have any success (see below)? If so how are
+you better off?
+* Ask at least one question about your interlocutor.
+* Ask at least one question about their situation.
 * Explain something complicated and unlikely to work that you are
-doing to alleviate a difficulty in a previous video in the chain. 
+attempting to help your interlocutor with their difficulties.
 
 Success and failure:
-When you upload your video you will get a VideoId. Look at the link:
+When you upload your video you will get a VideoId.
 https://www.youtube.com/watch?v=-NcanVthL8A
-That weird string of numbers and letters, -NcanVthL8A, at the end?
-That is your VideoId. 
+That weird string of numbers and letters, -NcanVthL8A, at the end is
+your VideoId.  
 
-To see how things worked out check the VideoId. Does it contain any
-doubled letters next to one another: like aa or -- but not like aA. If
-you have doubles then your attempted to help was successful. This
-won't happen often; only about 15% of the time. If you get triples or
-better (0.2% of the time) something truly amazing and miraculous has
-happened.  
+Check the VideoId. Does it contain any doubled letters next to one
+another: like aa or -- but not like aA. If it has doubles then your
+attempted to help was successful. This is unlikely (~15%). If you get
+triples or better (0.2%) your success is amazing.

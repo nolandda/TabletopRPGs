@@ -1,47 +1,38 @@
 # CQ
 ### by Dan Noland 
 
-Something has gone very wrong with the Multiverse Transit
-Network. Once beings from uncountable universes traveled
-freely between worlds. Some used technology others magic.
-These mortal arts were simply ways of accessing the transit network 
-designed by an unknown power. Fortunately interdimentional
-communication is still possible 
+Something is very wrong with the Multiverse Transit Network. Once
+beings from uncountable universes traveled between worlds. Some used
+technology others magic. Now everyone is stuck, but InterDimensional
+Messaging (IDM) still works.  
 
-To contact others record a short video and post it to YouTube. The
-video must be less than 4 minutes in length. Bonus points for
-costumes, props, or VFX. Be sure to use the tag #CQTheRPG 
-(both on YouTube and Social Media) so others can find it and reply.
+To send an IDM record a video, post it to YouTube, and make a
+G+ post. Make the video less than 4 minutes. Bonus points
+for costumes, props, or VFX. Tag it #CQTheRPG on G+ so others can
+find it and #CQReply.
 
-You can start a new message chain with a #CQCall or search for an
-existing chain and make a #CQReply. Make long chains. The group with
-the longest chain is winning. 
+Make long chains of videos. The longest chain is winning. 
 
-When you make a #CQCall video to you must address:
+When you make a #CQCall video to start you must address:
 * Who you are.
 * Where you came from.
-* Where are you stuck currently?
-* What difficulties are you having there?
-* Request assistance dealing with a difficulty. 
+* Where you are stuck?
+* What difficulties are you having?
 
 When you make a #CQReply you must address:
 * Your identity
-* Discuss difficulties in your own situation
-* What impression did the previous message make on you? 
-* Did the previous message have any success (see below)? If so how are
-you better off?
-* Ask at least one question about your interlocutor.
-* Ask at least one question about their situation.
-* Explain something complicated and unlikely to work that you are
-attempting to help your interlocutor with their difficulties.
+* Difficulties in your situation
+* The outcome (see below) of the previous IDM. 
+* Answer questions from the IDM. 
+* Ask a new question about the IDM sender.
+* Explain an unlikely plan to help your interlocutor with their difficulties. Will it work?
 
 Success and failure:
 When you upload your video you will get a VideoId.
 https://www.youtube.com/watch?v=-NcanVthL8A
-That weird string of numbers and letters, -NcanVthL8A, at the end is
-your VideoId.  
+Those numbers and letters at the end? -NcanVthL8A is the VideoId.  
 
-Check the VideoId. Does it contain any doubled letters next to one
-another: like aa or -- but not like aA. If it has doubles then your
-attempted to help was successful. This is unlikely (~15%). If you get
-triples or better (0.2%) your success is amazing.
+Does the VideoId have doubled letters next to one another: aa or
+-- but not aA. If it has doubles your plan was
+successful (odds: ~15%). If you get triples or better
+(<1%) your success is amazing. 

@@ -1,38 +1,35 @@
 # CQ
 ### by Dan Noland 
 
-Something is very wrong with the Multiverse Transit Network. Once
-beings from uncountable universes traveled between worlds. Some used
-technology others magic. Now everyone is stuck, but InterDimensional
-Messaging (IDM) still works.  
+The Multiverse Transit Network is broken. Once everyone could travel
+between universes. Some used technology, others magic. Now everyone is
+stuck, but InterDimensional Messaging (IDM) still works.  
 
-To send an IDM record a video, post it to YouTube, and make a
-G+ post. Make the video less than 4 minutes. Bonus points
+Make an IDM: record a video, post it to YouTube, and make a
+G+ post. Make the video less than 4 minutes. Extra credit
 for costumes, props, or VFX. Tag it #CQTheRPG on G+ so others can
 find it and #CQReply.
 
-Make long chains of videos. The longest chain is winning. 
+Make long chains of videos!
 
-When you make a #CQCall video to start you must address:
+When you make an initial #CQCall video you must address:
 * Who you are.
-* Where you came from.
-* Where you are stuck?
-* What difficulties are you having?
+* Where you're from.
+* Where you're stuck?
+* What difficulties you're having?
 
 When you make a #CQReply you must address:
 * Your identity
 * Difficulties in your situation
 * The outcome (see below) of the previous IDM. 
-* Answer questions from the IDM. 
-* Ask a new question about the IDM sender.
+* Answer questions from the IDM and ask some new questions. 
 * Explain an unlikely plan to help your interlocutor with their difficulties. Will it work?
 
-Success and failure:
-When you upload your video you will get a VideoId.
+Success / failure:
+On upload your video gets a VideoId.
 https://www.youtube.com/watch?v=-NcanVthL8A
-Those numbers and letters at the end? -NcanVthL8A is the VideoId.  
+Those numbers / letters at the end are the VideoId.  
 
 Does the VideoId have doubled letters next to one another: aa or
--- but not aA. If it has doubles your plan was
-successful (odds: ~15%). If you get triples or better
-(<1%) your success is amazing. 
+-- but not aA. If it has doubles your plan was successful (odds:
+~15%). On triples or better (~0.2%) it's amazing. 

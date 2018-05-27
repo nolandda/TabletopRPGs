@@ -26,10 +26,10 @@ When you make a #CQReply you must address:
 * Explain an unlikely plan to help your interlocutor with their difficulties. Will it work?
 
 Success / failure:
-On upload your video gets a VideoId.
+On upload your video gets a VideoID.
 https://www.youtube.com/watch?v=-NcanVthL8A
-Those numbers / letters at the end are the VideoId.  
+Those numbers / letters at the end are the VideoID.  
 
-Does the VideoId have doubled letters next to one another: aa or
--- but not aA. If it has doubles your plan was successful (odds:
-~15%). On triples or better (~0.2%) it's amazing. 
+Does the VideoID have doubled letters next to one another: aa or
+-- but not aA. If it has doubles (odds: ~15%) your plan was
+successful. On triples or better (~0.2%) it's amazing.  
